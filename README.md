@@ -2,7 +2,7 @@
 
 # Seungjae Lee
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nocturne07)](https://solved.ac/nocturne07/) <br /> -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nocturne07)](https://solved.ac/nocturne07/) <br />
 
 <table>
   <tr>

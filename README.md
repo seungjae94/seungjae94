@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/expressjs-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 
 #### Database
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
 <!--
 **seungjae94/seungjae94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td><b>Blog</b></td>
-    <td>https://mathlife12345.tistory.com</td>
+    <td>https://mathlife.super.site/</td>
     
   </tr>
 </table>
